@@ -1,3 +1,22 @@
-[2024-11-14T22:11:29.105Z] User: Unauthenticated User, Method: GET, URL: /, Status: 200
-[2024-11-14T22:11:29.138Z] User: Unauthenticated User, Method: GET, URL: /assets/images/daisy.png, Status: 200
-[2024-11-14T22:11:31.341Z] User: Unauthenticated User, Method: GET, URL: /favicon.ico, Status: 200
+[2024-11-15T11:20:40.660Z] User: Unauthenticated User, Method: GET, URL: /login, Status: 200
+[2024-11-15T11:20:40.675Z] Error: ENOENT: no such file or directory, stat 'C:\01_Github-Repos\Important-Reusable-Documents\Daisy_Webshop\server\client\login.html'
+[2024-11-15T11:21:00.231Z] User: Unauthenticated User, Method: GET, URL: /, Status: 200
+[2024-11-15T11:21:00.235Z] Error: ENOENT: no such file or directory, stat 'C:\01_Github-Repos\Important-Reusable-Documents\Daisy_Webshop\server\client\index.html'
+[2024-11-15T11:23:05.096Z] User: Unauthenticated User, Method: GET, URL: /, Status: 200
+[2024-11-15T11:23:05.101Z] Error: ENOENT: no such file or directory, stat 'C:\01_Github-Repos\Important-Reusable-Documents\Daisy_Webshop\server\client\index.html'
+[2024-11-15T11:23:19.861Z] User: Unauthenticated User, Method: GET, URL: /, Status: 200
+[2024-11-15T11:23:19.936Z] User: Unauthenticated User, Method: GET, URL: /assets/images/daisy.png, Status: 200
+[2024-11-15T11:26:13.602Z] User: Unauthenticated User, Method: GET, URL: /, Status: 200
+[2024-11-15T11:26:13.659Z] User: Unauthenticated User, Method: GET, URL: /assets/images/daisy.png, Status: 200
+[2024-11-15T11:31:04.458Z] User: Unauthenticated User, Method: GET, URL: /about, Status: 200
+[2024-11-15T11:31:24.370Z] User: Unauthenticated User, Method: GET, URL: /login, Status: 200
+[2024-11-15T11:31:24.376Z] Error: Forbidden
+[2024-11-15T13:29:03.362Z] User: Unauthenticated User, Method: GET, URL: /login, Status: 200
+[2024-11-15T13:29:03.375Z] Error: Forbidden
+[2024-11-15T13:29:04.159Z] User: Unauthenticated User, Method: GET, URL: /login, Status: 200
+[2024-11-15T13:29:04.164Z] Error: Forbidden
+[2024-11-15T13:52:49.551Z] User: Unauthenticated User, Method: GET, URL: /, Status: 200
+[2024-11-15T13:52:49.646Z] User: Unauthenticated User, Method: GET, URL: /assets/images/daisy.png, Status: 200
+[2024-11-15T13:52:50.127Z] User: Unauthenticated User, Method: GET, URL: /favicon.ico, Status: 200
+[2024-11-15T13:52:55.223Z] User: Unauthenticated User, Method: GET, URL: /login, Status: 200
+[2024-11-15T13:52:55.228Z] Error: Forbidden
